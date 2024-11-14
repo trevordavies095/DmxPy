@@ -4,7 +4,9 @@ This is a Python 3 port of [DmxPy](https://github.com/davepaul0/DmxPy).
 
 DmxPy is a super-lightweight Python library for controlling any USB-DMX device that is compatible with Enttec's DMXUSB Pro.  This includes all Dmxking ultraDMX devices.
 
-DmxPy requires PySerial to work - http://pyserial.sourceforge.net/
+DmxPy requires PySerial to work - [GitHub](https://github.com/pyserial/pyserial)
+
+```pip install pyserial```
 
 To import:<br />
 <code>from DmxPy import DmxPy</code>
